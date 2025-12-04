@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Electronics and Electricity lover<br>Love tinkering , bikes , jets , cars, electronics, nuclear physics <br>Curiosity is my fuel<br>Part-time to code in python,java,turbo and sometimes in assembly and nano<br>Not to brag but use Arch
+Electronics and Electricity lover<br>Love tinkering , bikes , jets , cars, electronics, nuclear physics <br>Curiosity is my fuel<br>Part-time coder in python,java,turbo and sometimes in assembly and nano<br>Not to brag but i use Arch
 
 
 ## 🌐 Socials:
